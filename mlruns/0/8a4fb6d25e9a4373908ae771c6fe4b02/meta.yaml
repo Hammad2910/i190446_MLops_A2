@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Muhammad%20Hammad/Documents/mlops/mlruns/0/8a4fb6d25e9a4373908ae771c6fe4b02/artifacts
+end_time: 1679496549570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a4fb6d25e9a4373908ae771c6fe4b02
+run_name: unique-hound-476
+run_uuid: 8a4fb6d25e9a4373908ae771c6fe4b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679496549492
+status: 3
+tags: []
+user_id: Muhammad Hammad
